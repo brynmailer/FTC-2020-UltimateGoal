@@ -51,7 +51,7 @@ Must be one of the following:
 ##### Scope
 The scope should be the name of the resource the changes affect.
 
-The supported scopes can be found inside the TeamCode module:
+The supported scopes can be found inside the TeamCode module.
 
 
 ##### Summary
