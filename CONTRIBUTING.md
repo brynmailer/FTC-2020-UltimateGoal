@@ -30,7 +30,7 @@ Any line of the commit message cannot be longer than 100 characters.
   │       │
   │       └─⫸ Commit Scope: Name of the class or OpMode the changes affect.
   │
-  └─⫸ Commit Type: build|ci|docs|feat|fix|perf|refactor|style|test
+  └─⫸ Commit Type: build|docs|feat|fix|perf|refactor
 ```
 
 The `<type>` and `<summary>` fields are mandatory, the `(<scope>)` field is optional.
